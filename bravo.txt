@@ -1,1 +1,2 @@
 Hello Bravo
+This is new text
